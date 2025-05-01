@@ -1,0 +1,8 @@
+## Interface: 100200
+## Title: Nameplate
+## Notes: A custom nameplate addon
+## Author: Your Name
+## Version: 1.0.0
+## SavedVariables: NameplateDB
+
+Nameplate.lua 
